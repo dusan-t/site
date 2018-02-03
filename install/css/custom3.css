@@ -1,0 +1,92 @@
+@media (min-width: 1200px) {
+    .container{
+        width: 1200px;
+    }
+}
+
+
+
+.logo {
+    
+    padding-bottom: 8px;
+    padding-top: 15px;
+    float: left;
+    color: #643e95;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45px;
+    
+}
+
+
+
+.logo img {
+    float: left;
+}
+
+
+
+
+
+.slogan_text {
+    margin-left: 15px;
+    vertical-align: top;
+    float: left;
+    
+}
+
+
+
+.slogan_text>span {
+    color: #643e95;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45px;
+}
+
+
+
+
+.main_nav {
+    
+    display: inline-block;
+    padding-bottom: 45px;
+    padding-top: 45px;
+    float: left;
+    
+
+}
+
+
+.main_nav a:hover
+{
+    color:#643e95;
+}
+
+
+
+.main_nav ul li {
+    
+    margin-left: 29px;
+    display: inline-block;
+
+}
+
+
+
+.main_nav ul li a {
+    color: #131313;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+
+
+a {
+    color: #066ba4;
+    font-weight: 400;
+    
+}
+
